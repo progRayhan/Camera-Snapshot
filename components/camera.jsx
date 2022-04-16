@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 
-function camera() {
+function Camera() {
   let videoRef = useRef(null);
   let photoRef = useRef(null);
 
@@ -67,4 +67,4 @@ function camera() {
   );
 }
 
-export default camera;
+export default Camera;
