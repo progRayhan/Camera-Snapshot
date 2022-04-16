@@ -2,7 +2,7 @@
  * WebCam from https://www.npmjs.com/package/react-webcam
  */
 import React from "react";
-import Camera from "./camera"
+import Camera from "../components/camera"
 import Webcam from "react-webcam";
 import styles from '../styles/Home.module.css'
 import { styled } from '@mui/material/styles';
